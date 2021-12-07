@@ -1,0 +1,6 @@
+*/__pycache__/*
+__pycache__/*
+output_dir
+saved
+data/*data
+*.log
